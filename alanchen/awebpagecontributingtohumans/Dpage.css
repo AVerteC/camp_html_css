@@ -1,0 +1,31 @@
+h1 {
+    color:aqua;
+    letter-spacing: 69px;
+    background-image:url(https://raw.githubusercontent.com/AVerteC/miwebpage/master/h1.jpg);
+    text-shadow:4px 0px;
+}
+
+body{background-image:url(https://raw.githubusercontent.com/AVerteC/miwebpage/master/sitebg.jpg);
+     background-repeat: no-repeat;
+    text-align: center;
+}
+p {color:darkgoldenrod;
+    background-color:deepskyblue
+}
+h2{
+    font-family:monospace;
+    font-style:italic;
+    text-align: right;
+    font-kerning: normal;
+}
+.footer{position:fixed;
+        text-align: right;
+        bottom:2px;
+        width:99%;
+}
+a{
+    background-blend-mode: hue;
+}
+p1{
+    color:#ABD98E;
+}
